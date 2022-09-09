@@ -1,0 +1,33 @@
+footer{
+    width: 100%;
+    background-color: rgb(45, 45, 45);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+footer > h1{
+    color:  rgb(255, 255, 255);
+    font-size: 50px;
+
+}
+
+footer > p{
+    color:  rgb(255, 255, 255);
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+footer > p:last-child{
+    color:  rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+footer > div > a{
+    color: rgb(243, 96, 42) ;
+    border: 3px solid rgb(243, 96, 42);
+    padding: 10px;
+    margin: 10px;
+}

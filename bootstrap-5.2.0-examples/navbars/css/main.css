@@ -1,0 +1,13 @@
+@import url(./reset.css);
+@import url(./header.css);
+@import url(./home.css);
+@import url(./sobre.css);
+@import url(./habilidades.css);
+@import url(./projetos.css);
+@import url(./contato.css);
+@import url(./footer.css);
+
+/* ::selection{
+    background-color: rgb(rgb(237, 122, 81);
+    color: black;
+} */
